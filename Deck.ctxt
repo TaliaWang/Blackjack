@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Deck
+comment0.text=\r\n\ A\ deck\ in\ a\ game\ of\ Blackjack.\r\n\ \r\n\ @Talia\ Wang\r\n\ @2018-10-29\r\n
+comment1.params=
+comment1.target=Deck()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Deck.\r\n
+comment2.params=
+comment2.target=void\ printDeck()
+comment2.text=\r\n\ Prints\ out\ the\ current\ deck.\ \ \r\n
+comment3.params=
+comment3.target=int\ dealACard()
+comment3.text=\r\n\ Returns\ the\ card\ dealt.\ \r\n\ Calculates\ the\ number\ of\ cards\ left.\r\n
+comment4.params=
+comment4.target=void\ shuffle()
+comment4.text=\r\n\ Shuffles\ the\ deck.\r\n
+comment5.params=numInList
+comment5.target=java.lang.String\ intToCard(int)
+comment5.text=\r\n\ Returns\ string\ value\ of\ a\ card\ in\ the\ deck.\ \r\n
+comment6.params=numOfList
+comment6.target=int\ cardToValue(int)
+comment6.text=\r\n\ Returns\ value\ of\ a\ card\r\n
+numComments=7

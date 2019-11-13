@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Dealer
+comment0.text=\r\n\ A\ dealer\ for\ a\ game\ of\ Blackjack.\r\n\r\n\ @Talia\ Wang\r\n\ @2018-10-29\r\n
+comment1.params=
+comment1.target=Dealer()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Dealer.\r\n\ Constructs\ a\ default\ dealer.\r\n
+comment2.params=
+comment2.target=void\ showHand()
+comment2.text=\ \r\n\ Shows\ the\ cards\ in\ this\ dealer's\ hand.\ \r\n\ Polymorphism\:\ overrides\ showHand\ method\ in\ Person\ class.\r\n
+numComments=3

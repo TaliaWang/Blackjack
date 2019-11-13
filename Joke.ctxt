@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Joke
+comment0.text=\r\n\ Creates\ jokes\ to\ entertain\ the\ user.\ \r\n\r\n\ @Talia\ Wang\r\n\ @2018-10-29\r\n
+comment1.params=
+comment1.target=java.lang.String\ generateJoke()
+comment1.text=\r\n\ Generates\ random\ jokes\r\n
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ A\ player\ in\ a\ game\ of\ Blackjack.\ \r\n\ \r\n\ @Talia\ Wang\r\n\ @2018-10-29\r\n
+comment1.params=name\ money
+comment1.target=Player(java.lang.String,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Player.\r\n\ Constructs\ a\ player\ with\ a\ given\ name\ and\ money.\ \r\n
+comment2.params=decision
+comment2.target=boolean\ makeDecision(java.lang.String)
+comment2.text=\r\n\ Makes\ a\ decision\ to\ either\ hit\ or\ stand.\ \r\n
+numComments=3
